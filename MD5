@@ -1,0 +1,9 @@
+08e2d2b3238179778b2581ced892037d *DESCRIPTION
+31cad6b0f647f5867457543906df3baf *NAMESPACE
+fe167be88b2e90ba5561e4c03c9b3e61 *R/nnumattr.R
+9195d0a3f593a6ed85addab1ea8e1c95 *R/normalize.R
+f8465c42653f8c61cb6186c0baa4f153 *R/symbol.R
+2a7f57a5faf97979138f28e674229f9f *man/nnumattr.Rd
+13d991feba4cf9b01f817590ff89678a *man/normalize.Rd
+ff61e11c03d4bd48f3136b5681e3c580 *man/symbol.Rd
+280df8d0334e2fcad840941ab9bd805d *man/symbols-package.Rd
